@@ -18,5 +18,7 @@ We have detailed instructions inside the jupyter notebook.
 The raw data set analyzed for the current study is directly downloaded from the Human Connectome Project (HCP) S1200 data (https://www.humanconnectome.org/study/hcp-young-adult/data-releases) and the Adolescent Brain Cognitive Development (ABCD) Study (https://nda.nih.gov/abcd).
 
 After you download the pre-processed dataset in [link]{https://drive.google.com/drive/folders/1V2Hth1TRtbY3McGU38VfKDtQ_du7-nMQ?usp=sharing} using FreeSurfer. 
-You can train models on two dataset, HCP and ABCD and on different structures, All, cortical-only and subcortical-only.
+You can train models on two dataset, i.e., HCP and ABCD,  and on different structures, ie.e, All, Cortical-only and Subcortical-only.
+
+
 
