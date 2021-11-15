@@ -2,7 +2,7 @@
 This is the code for predicting fluid intelligence using graph CNNs.
 
 You can download the pre-processed data and the trained models here:
-[link{https://drive.google.com/drive/folders/1V2Hth1TRtbY3McGU38VfKDtQ_du7-nMQ?usp=sharing}
+[link]{https://drive.google.com/drive/folders/1V2Hth1TRtbY3McGU38VfKDtQ_du7-nMQ?usp=sharing}
 
 
 # Environment
